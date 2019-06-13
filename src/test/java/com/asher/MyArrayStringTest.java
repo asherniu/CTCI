@@ -2,7 +2,6 @@ package com.asher;
 
 import org.testng.annotations.*;
 
-import static org.junit.Assert.assertEquals;
 import static org.testng.Assert.*;
 import static com.asher.MyArrayString.*;
 
