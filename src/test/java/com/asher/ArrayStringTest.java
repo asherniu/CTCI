@@ -3,9 +3,9 @@ package com.asher;
 import org.testng.annotations.*;
 
 import static org.testng.Assert.*;
-import static com.asher.MyArrayString.*;
+import static com.asher.ArrayString.*;
 
-public class MyArrayStringTest 
+public class ArrayStringTest 
 {
     static String EMPTY = "";
     static Integer[][] MATRIX_R1 = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};

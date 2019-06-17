@@ -2,13 +2,13 @@ package com.asher;
 
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedList;
 
 /**
  * Array and String
  * Assuming no inputs are null, and can be empty. 
  */
-public class MyArrayString
-{
+public class ArrayString{
     // 1.1 brute force
     public static boolean isUniqueBrute(String s){
         for (int i = 0; i < s.length(); i++) {
